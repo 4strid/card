@@ -1,0 +1,25 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+.stage {
+  padding: 200px;
+}
+
+.card {
+  padding: 20px;
+  background-color: #facade;
+  outline: 1px solid lightsteelblue;
+  width: 300px;
+  height: 186px;
+}
