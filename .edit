@@ -1,0 +1,3 @@
+#!/bin/bash
+
+vim cards.js style.css index.html
